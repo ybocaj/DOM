@@ -1,6 +1,6 @@
 /* console is an object and there are methods, which is what .dot is, 
 like .log */
-// console.log("fuck off faggot");
+// console.log("note");
 // console.log("Boca webdev");
 
 // I got some of these at
