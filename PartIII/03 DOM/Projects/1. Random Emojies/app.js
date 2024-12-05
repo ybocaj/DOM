@@ -50,3 +50,11 @@ const emojis = [
 emoji.addEventListener("mouseover", () => {
     emoji.innerText = emojis[Math.floor(Math.random() * emojis.length)];
 });
+
+// he wrote it (in the lesson) as...
+
+// emoji.addEventListener("mouseover", () => {
+//     emoji.innerHTML = emojis[Math.floor(Math.random() * emojis.length)];
+// });
+
+// and it's undefined
